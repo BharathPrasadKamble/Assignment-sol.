@@ -1,0 +1,24 @@
+﻿Assignment sol.
+
+
+sol.(3): Int- 4 bytes
+             Bool- 1 bytes
+             Float- 4 bytes
+
+
+sol.(4): output: 6 4
+
+sol.(5): 
+#include<iostream>
+using namespace std;
+int main() {
+  float radius=10;
+  float pie=3.14;
+  float circumference= 2*pie*radius;
+  cout<<circumference;
+    return 0;
+}
+
+
+sol.(6):
+  _FLOAT
